@@ -10,7 +10,7 @@ module.exports = {
     discord: {
         token: 'ODMzNDgxNDU3MzQ2NDEyNTY0.YHy-GA.2vBZTAmwlz1dXyiNs_rwXw6Ctag',
         prefix: '+',
-        activity: ('Wav Records| Music Bot'),
+        activity: ('Wav Records| +help'),
     },
 
     filters: ['8D', 'gate', 'haas', 'phaser', 'treble', 'tremolo', 'vibrato', 'reverse', 'karaoke', 'flanger', 'mcompand', 'pulsator', 'subboost', 'bassboost', 'vaporwave', 'nightcore', 'normalizer', 'surrounding'],

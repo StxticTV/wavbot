@@ -8,7 +8,7 @@ module.exports = {
     },
 
     discord: {
-        token: 'ODMzNDgxNDU3MzQ2NDEyNTY0.YHy-GA.2vBZTAmwlz1dXyiNs_rwXw6Ctag',
+        token: 'N/A',
         prefix: '+',
         activity: ('Wav Records| +help'),
     },
